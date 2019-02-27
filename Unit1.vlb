@@ -1,0 +1,16 @@
+﻿[Edit1]
+Coordinates=368,10,44,58
+
+[Timer1]
+Coordinates=0,233,54,36
+
+[PlayButton]
+Coordinates=79,10,77,58
+
+[StopButton]
+Coordinates=79,78,78,58
+
+[]
+Coordinates=235,10,54,58
+Visible=True
+

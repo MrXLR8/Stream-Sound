@@ -1,0 +1,8 @@
+false_play RCDATA "Win32\\Debug\\recourses\\img\\false_play.png"
+PngImage_2 RCDATA "Win32\\Debug\\recourses\\img\\false_stop.png"
+PngImage_3 RCDATA "Win32\\Debug\\recourses\\img\\hi volume.png"
+PngImage_4 RCDATA "Win32\\Debug\\recourses\\img\\low volume.png"
+off_play RCDATA "Win32\\Debug\\recourses\\img\\off_play.png"
+PngImage_6 RCDATA "Win32\\Debug\\recourses\\img\\off_stop.png"
+on_play RCDATA "Win32\\Debug\\recourses\\img\\on_play.png"
+PngImage_8 RCDATA "Win32\\Debug\\recourses\\img\\on_stop.png"

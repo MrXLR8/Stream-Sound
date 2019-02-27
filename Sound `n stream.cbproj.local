@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.015,C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\on_play.png=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.274,=C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\on_play.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.850,=C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\on_play.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.600,C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\on_play.png=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.946,=C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Project1_resources.rc</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.860,=C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\on_stop.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.020,C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\on_stop.png=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.287,C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Project1_resources.rc=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.284,=C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\on_stop.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.381,=C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.345,C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\off_stop.png=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.264,=C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\off_stop.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.028,C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\off_stop.png=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.839,=C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\off_stop.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.790,C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Sound `n stream.cbproj=C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Sound `n stream.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.304,=C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\false_stop.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.040,C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\false_stop.png=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.177,C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\false_stop.png=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.800,=C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\false_stop.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.623,C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\on_stop.png=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.043,C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\low volume.png=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.889,=C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.325,=C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\low volume.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.819,=C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\low volume.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.036,C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\false_play.png=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.790,=C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\false_play.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.038,C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Project1PCH1.h=C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Sound `n streamPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.294,=C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\false_play.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.073,C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\false_play.png=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.753,C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\low volume.png=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.809,=C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\hi volume.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.315,=C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\hi volume.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.051,C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Project1.cbproj=C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Sound `n stream.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.024,C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\hi volume.png=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.472,C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\hi volume.png=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.088,C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\off_play.png=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.829,=C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\off_play.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.253,=C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\off_play.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.032,C:\Users\XLR8\Dropbox\Колледж\Курсач (4 курс)\Win32\Debug\recourses\img\off_play.png=</Transaction>
+  </Transactions>
+</BorlandProject>
